@@ -1,0 +1,11 @@
+
+
+const Support = () => {
+    return (
+        <div>
+            <h2>We are here for you</h2>
+        </div>
+    );
+};
+
+export default Support;
